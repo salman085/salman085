@@ -2,6 +2,8 @@
 
 GitHub profilime hoş geldiniz!
 
+![Arka Plan Görseli](https://example.com/path/to/your-image.jpg) <!-- Arka plan görselinizin URL'sini buraya ekleyin -->
+
 ## 👀 İlgi Alanlarım:
 - 🐍 **Python** geliştirme
 - 🌐 **JavaScript** ve ilgili frameworkler
