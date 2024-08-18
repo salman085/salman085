@@ -2,7 +2,6 @@
 
 GitHub profilime hoş geldiniz!
 
-![Arka Plan Görseli](https://st2.depositphotos.com/1035123/5942/i/450/depositphotos_59421835-stock-photo-internet-multimedia-server.jpg) <!-- Arka plan görselinizin URL'sini buraya ekleyin -->
 
 ## 👀 İlgi Alanlarım:
 - 🐍 **Python** geliştirme
